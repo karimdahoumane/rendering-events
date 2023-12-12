@@ -2,6 +2,8 @@
 
 This component displays events throughout a day while managing the overlap between two or more events. Tests are implemented in this project.
 
+![Rendering events calendar](./media-assets/calendar.png)
+
 ## Stack technique
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
